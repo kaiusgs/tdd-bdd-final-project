@@ -48,4 +48,3 @@ John Rofrano, Senior Technical Staff Member, DevOps Champion, @ IBM Research
 
 ## <h3 align="center"> © IBM Corporation 2023. All rights reserved. <h3/>
 
-
